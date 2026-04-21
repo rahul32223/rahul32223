@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahul32223
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java based project 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python based project 
 - 📫 How to reach me through my email ID rahulsood966@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
